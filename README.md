@@ -14,10 +14,10 @@
 <h2 align="center"></h2>
 <br>
  <div align="center"> 
-  <a href="https://tr.linkedin.com/in/furkan-k%C3%BCm%C3%BC%C5%9F-07aa65237" target="_blank">
+  <a href="https://www.linkedin.com/in/bilal-ayakda%C5%9F-416a031b5/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank">
   </a>
-  <a href = "mailto:furkanayakdas@gmail.com">
+  <a href = "mailto:bilalayakdas@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=reed" target="_blank">
   </a>
 
