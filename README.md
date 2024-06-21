@@ -64,12 +64,17 @@
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>    
+        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="jQuery" />
+      <br>Flask
+    </td>
+     
   </tr>
   
   <tr>
+   <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>   
   <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
       <br>Docker
