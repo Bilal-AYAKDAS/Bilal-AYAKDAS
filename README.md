@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bilal-ayakda%C5%9F-416a031b5/">
+  <a href="https://www.linkedin.com/in/bilal-ayakdas-416a031b5/">
     <img src="https://img.shields.io/badge/LinkedIn-333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:bilalayakdas@gmail.com">
