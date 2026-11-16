@@ -20,9 +20,6 @@
 
 ## Languages and tools
 
-The icons below use [Skill Icons](https://skillicons.dev), which keeps the
-language and tool visuals on one consistent, GitHub-compatible image source.
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,html,css,bootstrap,jquery,python,flask,django,cs,cpp,c,dart,dotnet,mysql,postgres,mongodb,docker,github,git,vscode,linux,firebase,flutter,opencv,postman,pytorch,qt,react,sklearn,tensorflow&perline=11" alt="Languages and tools" />
 </p>
